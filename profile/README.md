@@ -37,9 +37,13 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
   - Curso en línea: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning).
   - Libro: "Mathematics for Machine Learning" de Marc Peter Deisenroth, A. Aldo Faisal, y Cheng Soon Ong.
 
+### Tareas
+1. Completa los primeros 5 capítulos de "Automate the Boring Stuff with Python".
+2. Realiza los ejercicios de los cursos de matemáticas en Coursera.
+
 ### Proyectos
-- Crear un programa en Python que automatice una tarea sencilla.
-- Resolver problemas matemáticos básicos relacionados con álgebra lineal y probabilidad.
+- **Python:** Crear un programa que organice automáticamente los archivos en una carpeta según su tipo.
+- **Matemáticas:** Resolver problemas de álgebra lineal y probabilidad utilizando Python.
 
 ## Semana 3-4: Fundamentos de Machine Learning
 
@@ -54,9 +58,13 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 - **Práctica:**
   - Tutoriales de Scikit-Learn: [Scikit-Learn Documentation](https://scikit-learn.org/stable/tutorial/index.html).
 
+### Tareas
+1. Completa las semanas 1-4 del curso de Machine Learning de Andrew Ng.
+2. Lee los capítulos 1-4 del libro de Aurélien Géron.
+
 ### Proyectos
-- Implementar algoritmos básicos de Machine Learning utilizando Scikit-Learn.
-- Crear un modelo de predicción de precios de casas utilizando un dataset público.
+- **Scikit-Learn:** Implementar algoritmos de regresión lineal y clasificación.
+- **Proyecto:** Crear un modelo de predicción de precios de casas utilizando el dataset de Kaggle [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
 ## Semana 5-6: Deep Learning y PyTorch
 
@@ -72,9 +80,13 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
   - Tutoriales oficiales de PyTorch: [PyTorch Tutorials](https://pytorch.org/tutorials/).
   - Libro: "Deep Learning with PyTorch" de Eli Stevens, Luca Antiga, y Thomas Viehmann.
 
+### Tareas
+1. Completa las semanas 1-3 del curso de Deep Learning Specialization.
+2. Lee los capítulos 1-5 del libro "Deep Learning with PyTorch".
+
 ### Proyectos
-- Implementar una red neuronal simple con PyTorch.
-- Crear un clasificador de imágenes utilizando el dataset MNIST.
+- **PyTorch:** Implementar una red neuronal simple y entrenarla en el dataset MNIST.
+- **Proyecto:** Crear un clasificador de imágenes utilizando el dataset CIFAR-10.
 
 ## Semana 7-8: DevOps y Proyectos Avanzados
 
@@ -89,9 +101,13 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 - **Práctica:**
   - Tutoriales de despliegue: [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) y [PyTorch Serve](https://pytorch.org/serve/).
 
+### Tareas
+1. Completa los módulos 1-2 del curso MLOps with Google Cloud.
+2. Lee los capítulos 1-3 del libro "MLOps" de Alfredo Deza y Noah Gift.
+
 ### Proyectos
-- Implementar un pipeline de Machine Learning utilizando Docker y Kubernetes.
-- Desarrollar un modelo de recomendación y desplegarlo en un entorno de producción.
+- **DevOps:** Implementar un pipeline de Machine Learning utilizando Docker y Kubernetes.
+- **Proyecto:** Desarrollar un sistema de recomendación y desplegarlo en un entorno de producción utilizando Flask y Docker.
 
 ## Semana 9-10: LLMs y Proyectos Integrales
 
@@ -104,9 +120,13 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
   - Tutorial: [Hugging Face Transformers](https://huggingface.co/transformers/).
   - Libro: "Natural Language Processing with PyTorch" de Delip Rao y Brian McMahan.
 
+### Tareas
+1. Completa los tutoriales de Hugging Face Transformers.
+2. Lee los capítulos 1-4 del libro "Natural Language Processing with PyTorch".
+
 ### Proyectos
-- Implementar un chatbot utilizando un modelo de lenguaje preentrenado.
-- Combinar diferentes técnicas de Machine Learning y Deep Learning para resolver un problema real (por ejemplo, análisis de sentimientos en redes sociales).
+- **LLMs:** Implementar un chatbot utilizando un modelo de lenguaje preentrenado de Hugging Face.
+- **Proyecto:** Combinar técnicas de Machine Learning y Deep Learning para realizar análisis de sentimientos en redes sociales.
 
 ## Semana 11-12: Revisión y Perfeccionamiento
 
@@ -121,8 +141,8 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 - Preparar un CV enfocado en Machine Learning.
 
 ### Proyectos
-- Mejorar un proyecto existente basado en feedback recibido.
-- Crear una presentación o blog sobre el aprendizaje y los proyectos realizados.
+- **Revisión:** Mejorar un proyecto existente basado en feedback recibido.
+- **Presentación:** Crear una presentación o blog sobre el aprendizaje y los proyectos realizados.
 
 ## Consejos Adicionales
 
