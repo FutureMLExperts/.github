@@ -1,6 +1,6 @@
 # MLEngineer Bootcamp
 
-![Machine Learning](https://your-image-url.com/machine-learning-banner.jpg)
+![Machine Learning](https://github.com/FutureMLExperts/.github/blob/main/assets/DALL%C2%B7E%202024-05-29%2022.55.57%20-%20A%20modern%20and%20sleek%20illustration%20representing%20a%20Machine%20Learning%20Engineer.%20The%20illustration%20should%20include%20elements%20such%20as%20neural%20networks%2C%20data%20chart.png)
 
 ## Bienvenidos al Bootcamp de Machine Learning Engineer
 
