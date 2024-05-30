@@ -4,7 +4,7 @@
 
 ## Bienvenidos al Bootcamp de Machine Learning Engineer 🧠
 
-Este repositorio es parte de nuestra organización **MLEngineerBootcamp**, dedicada a proporcionar una guía clara y estructurada para convertirse en un Machine Learning Engineer autodidacta en solo dos meses. Aquí encontrarás recursos, proyectos y documentación para seguir una ruta de aprendizaje intensiva y práctica.
+Este repositorio es parte de nuestra organización **Future Ml Experts**, dedicada a proporcionar una guía clara y estructurada para convertirse en un Machine Learning Engineer autodidacta en solo dos meses. Aquí encontrarás recursos, proyectos y documentación para seguir una ruta de aprendizaje intensiva y práctica.
 
 ## Tabla de Contenidos 📚
 
@@ -51,6 +51,7 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 ### Objetivos 🎯
 - Entender los conceptos básicos de Machine Learning.
 - Aprender a utilizar bibliotecas como Scikit-Learn.
+- Preprocesamiento de datos.
 
 ### Recursos 📘
 - **Conceptos:**
@@ -58,14 +59,17 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
   - Curso en línea: [Machine Learning de Andrew Ng](https://www.coursera.org/learn/machine-learning).
 - **Práctica:**
   - Tutoriales de Scikit-Learn: [Scikit-Learn Documentation](https://scikit-learn.org/stable/tutorial/index.html).
+  - Curso en línea: [Feature Engineering](https://www.coursera.org/learn/feature-engineering).
 
 ### Tareas 📝
 1. Completa las semanas 1-4 del curso de Machine Learning de Andrew Ng.
 2. Lee los capítulos 1-4 del libro de Aurélien Géron.
 3. Implementa algoritmos de regresión lineal y clasificación utilizando Scikit-Learn.
+4. Practica técnicas de preprocesamiento de datos (limpieza, transformación, normalización).
 
 ### Proyectos 💻
 - **Scikit-Learn:** Crear un modelo de predicción de precios de casas utilizando el dataset de Kaggle [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
+- **Preprocesamiento:** Realizar un análisis exploratorio de datos (EDA) y preprocesamiento en un dataset de elección.
 - **Desafío Avanzado:** Desarrollar un modelo de clasificación para detectar fraudes en transacciones bancarias utilizando el dataset [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 
 ## Semana 5-6: Deep Learning y PyTorch 🤖
@@ -73,6 +77,7 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 ### Objetivos 🎯
 - Introducción a Deep Learning.
 - Aprender a utilizar PyTorch.
+- Visualización de datos.
 
 ### Recursos 📘
 - **Deep Learning:**
@@ -81,14 +86,18 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 - **PyTorch:**
   - Tutoriales oficiales de PyTorch: [PyTorch Tutorials](https://pytorch.org/tutorials/).
   - Libro: "Deep Learning with PyTorch" de Eli Stevens, Luca Antiga, y Thomas Viehmann.
+- **Visualización:**
+  - Curso en línea: [Data Visualization with Python](https://www.coursera.org/learn/datavisualization)
 
 ### Tareas 📝
 1. Completa las semanas 1-3 del curso de Deep Learning Specialization.
 2. Lee los capítulos 1-5 del libro "Deep Learning with PyTorch".
 3. Implementa redes neuronales convolucionales (CNN) para clasificación de imágenes.
+4. Aprende a utilizar Matplotlib y Seaborn para la visualización de datos.
 
 ### Proyectos 💻
 - **PyTorch:** Crear un clasificador de imágenes utilizando el dataset CIFAR-10.
+- **Visualización:** Crear visualizaciones interactivas para un conjunto de datos utilizando Plotly.
 - **Desafío Avanzado:** Desarrollar un modelo de reconocimiento facial utilizando el dataset [CelebA](https://www.kaggle.com/jessicali9530/celeba-dataset).
 
 ## Semana 7-8: DevOps y Proyectos Avanzados ⚙️
@@ -96,6 +105,7 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 ### Objetivos 🎯
 - Introducción a DevOps para Machine Learning.
 - Implementar y desplegar modelos de Machine Learning.
+- APIs y servicios web.
 
 ### Recursos 📘
 - **DevOps:**
@@ -103,14 +113,18 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
   - Curso en línea: [MLOps with Google Cloud](https://www.coursera.org/specializations/mlops-google-cloud).
 - **Práctica:**
   - Tutoriales de despliegue: [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) y [PyTorch Serve](https://pytorch.org/serve/).
+- **APIs:**
+  - Curso en línea: [APIs and Web Services](https://www.coursera.org/learn/apis).
 
 ### Tareas 📝
 1. Completa los módulos 1-2 del curso MLOps with Google Cloud.
 2. Lee los capítulos 1-3 del libro "MLOps" de Alfredo Deza y Noah Gift.
 3. Configura un pipeline de CI/CD para un proyecto de Machine Learning.
+4. Aprende a crear y consumir APIs con Flask y FastAPI.
 
 ### Proyectos 💻
 - **DevOps:** Implementar un pipeline de Machine Learning utilizando Docker y Kubernetes.
+- **APIs:** Desarrollar una API para un modelo de Machine Learning y desplegarla utilizando Flask.
 - **Desafío Avanzado:** Desarrollar un sistema de recomendación y desplegarlo en un entorno de producción utilizando Flask y Docker. Incluye monitoreo y logging con Prometheus y Grafana.
 
 ## Semana 9-10: LLMs y Proyectos Integrales 🌐
@@ -138,16 +152,20 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 ### Objetivos 🎯
 - Revisar y reforzar conocimientos.
 - Preparar un portafolio de proyectos.
+- Interpretabilidad y ética en Machine Learning.
 
 ### Actividades 📌
 - Revisión de conceptos clave y resolución de dudas.
 - Mejorar y documentar los proyectos realizados.
 - Crear un portafolio en GitHub con todos los proyectos.
 - Preparar un CV enfocado en Machine Learning.
+- Estudiar técnicas de interpretabilidad de modelos (LIME, SHAP).
+- Revisar aspectos éticos en el uso de Machine Learning.
 
 ### Proyectos 💻
 - **Revisión:** Mejorar un proyecto existente basado en feedback recibido.
 - **Presentación:** Crear una presentación o blog sobre el aprendizaje y los proyectos realizados.
+- **Ética:** Escribir un ensayo sobre consideraciones éticas en el desarrollo de proyectos de Machine Learning.
 
 ## Consejos Adicionales 💡
 
