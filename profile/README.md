@@ -1,10 +1,11 @@
+
 # MLEngineer Bootcamp 🚀
 
 ![Machine Learning](https://github.com/FutureMLExperts/.github/blob/main/assets/DALL%C2%B7E%202024-05-29%2022.55.57%20-%20A%20modern%20and%20sleek%20illustration%20representing%20a%20Machine%20Learning%20Engineer.%20The%20illustration%20should%20include%20elements%20such%20as%20neural%20networks%2C%20data%20chart.png)
 
 ## Bienvenidos al Bootcamp de Machine Learning Engineer 🧠
 
-Este repositorio es parte de nuestra organización **Future Ml Experts**, dedicada a proporcionar una guía clara y estructurada para convertirse en un Machine Learning Engineer autodidacta en solo dos meses. Aquí encontrarás recursos, proyectos y documentación para seguir una ruta de aprendizaje intensiva y práctica.
+Este repositorio es parte de nuestra organización **Future ML Experts**, dedicada a proporcionar una guía clara y estructurada para convertirse en un Machine Learning Engineer autodidacta en solo dos meses. Aquí encontrarás recursos, proyectos y documentación para seguir una ruta de aprendizaje intensiva y práctica.
 
 ## Tabla de Contenidos 📚
 
@@ -31,14 +32,12 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 
 ### Recursos 📘
 - **Python:**
-  - Libro: "Automate the Boring Stuff with Python" de Al Sweigart.
-  - Curso en línea: [Python for Everybody](https://www.coursera.org/specializations/python).
+  - Libro: "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" de Eric Matthes.
 - **Matemáticas:**
   - Curso en línea: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning).
-  - Libro: "Mathematics for Machine Learning" de Marc Peter Deisenroth, A. Aldo Faisal, y Cheng Soon Ong.
 
 ### Tareas 📝
-1. Completa los primeros 5 capítulos de "Automate the Boring Stuff with Python".
+1. Completa los primeros capítulos del libro "Python Crash Course".
 2. Realiza los ejercicios de los cursos de matemáticas en Coursera.
 3. Implementa algoritmos básicos de álgebra lineal en Python (multiplicación de matrices, descomposición LU).
 
@@ -56,21 +55,17 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 ### Recursos 📘
 - **Conceptos:**
   - Libro: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de Aurélien Géron.
-  - Curso en línea: [Machine Learning de Andrew Ng](https://www.coursera.org/learn/machine-learning).
 - **Práctica:**
   - Tutoriales de Scikit-Learn: [Scikit-Learn Documentation](https://scikit-learn.org/stable/tutorial/index.html).
-  - Curso en línea: [Feature Engineering](https://www.coursera.org/learn/feature-engineering).
 
 ### Tareas 📝
-1. Completa las semanas 1-4 del curso de Machine Learning de Andrew Ng.
-2. Lee los capítulos 1-4 del libro de Aurélien Géron.
-3. Implementa algoritmos de regresión lineal y clasificación utilizando Scikit-Learn.
-4. Practica técnicas de preprocesamiento de datos (limpieza, transformación, normalización).
+1. Lee los primeros capítulos del libro de Aurélien Géron.
+2. Implementa algoritmos de regresión lineal y clasificación utilizando Scikit-Learn.
+3. Practica técnicas de preprocesamiento de datos (limpieza, transformación, normalización).
 
 ### Proyectos 💻
 - **Scikit-Learn:** Crear un modelo de predicción de precios de casas utilizando el dataset de Kaggle [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 - **Preprocesamiento:** Realizar un análisis exploratorio de datos (EDA) y preprocesamiento en un dataset de elección.
-- **Desafío Avanzado:** Desarrollar un modelo de clasificación para detectar fraudes en transacciones bancarias utilizando el dataset [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 
 ## Semana 5-6: Deep Learning y PyTorch 🤖
 
@@ -81,24 +76,19 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 
 ### Recursos 📘
 - **Deep Learning:**
-  - Libro: "Deep Learning" de Ian Goodfellow, Yoshua Bengio y Aaron Courville.
-  - Curso en línea: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) de Andrew Ng.
+  - Libro: "Deep Learning with Python, Second Edition" de Francois Chollet.
 - **PyTorch:**
-  - Tutoriales oficiales de PyTorch: [PyTorch Tutorials](https://pytorch.org/tutorials/).
-  - Libro: "Deep Learning with PyTorch" de Eli Stevens, Luca Antiga, y Thomas Viehmann.
-- **Visualización:**
-  - Curso en línea: [Data Visualization with Python](https://www.coursera.org/learn/datavisualization)
+  - Libro: "Machine Learning with PyTorch and Scikit-Learn" de Sebastian Raschka, Yuxi (Hayden) Liu, y Vahid Mirjalili.
 
 ### Tareas 📝
-1. Completa las semanas 1-3 del curso de Deep Learning Specialization.
-2. Lee los capítulos 1-5 del libro "Deep Learning with PyTorch".
+1. Lee los primeros capítulos del libro "Deep Learning with Python".
+2. Completa los tutoriales de PyTorch del libro de Sebastian Raschka.
 3. Implementa redes neuronales convolucionales (CNN) para clasificación de imágenes.
 4. Aprende a utilizar Matplotlib y Seaborn para la visualización de datos.
 
 ### Proyectos 💻
 - **PyTorch:** Crear un clasificador de imágenes utilizando el dataset CIFAR-10.
 - **Visualización:** Crear visualizaciones interactivas para un conjunto de datos utilizando Plotly.
-- **Desafío Avanzado:** Desarrollar un modelo de reconocimiento facial utilizando el dataset [CelebA](https://www.kaggle.com/jessicali9530/celeba-dataset).
 
 ## Semana 7-8: DevOps y Proyectos Avanzados ⚙️
 
@@ -110,22 +100,18 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 ### Recursos 📘
 - **DevOps:**
   - Libro: "MLOps: Model management, deployment, and monitoring with Azure Machine Learning" de Alfredo Deza y Noah Gift.
-  - Curso en línea: [MLOps with Google Cloud](https://www.coursera.org/specializations/mlops-google-cloud).
 - **Práctica:**
   - Tutoriales de despliegue: [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) y [PyTorch Serve](https://pytorch.org/serve/).
-- **APIs:**
-  - Curso en línea: [APIs and Web Services](https://www.coursera.org/learn/apis).
 
 ### Tareas 📝
-1. Completa los módulos 1-2 del curso MLOps with Google Cloud.
-2. Lee los capítulos 1-3 del libro "MLOps" de Alfredo Deza y Noah Gift.
+1. Completa los primeros módulos del curso MLOps with Google Cloud.
+2. Lee los primeros capítulos del libro "MLOps" de Alfredo Deza y Noah Gift.
 3. Configura un pipeline de CI/CD para un proyecto de Machine Learning.
 4. Aprende a crear y consumir APIs con Flask y FastAPI.
 
 ### Proyectos 💻
 - **DevOps:** Implementar un pipeline de Machine Learning utilizando Docker y Kubernetes.
 - **APIs:** Desarrollar una API para un modelo de Machine Learning y desplegarla utilizando Flask.
-- **Desafío Avanzado:** Desarrollar un sistema de recomendación y desplegarlo en un entorno de producción utilizando Flask y Docker. Incluye monitoreo y logging con Prometheus y Grafana.
 
 ## Semana 9-10: LLMs y Proyectos Integrales 🌐
 
@@ -135,12 +121,11 @@ Este bootcamp autodidacta está diseñado para guiarte desde los conceptos bási
 
 ### Recursos 📘
 - **LLMs:**
-  - Tutorial: [Hugging Face Transformers](https://huggingface.co/transformers/).
-  - Libro: "Natural Language Processing with PyTorch" de Delip Rao y Brian McMahan.
+  - Libro: "Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT and other LLMs".
 
 ### Tareas 📝
 1. Completa los tutoriales de Hugging Face Transformers.
-2. Lee los capítulos 1-4 del libro "Natural Language Processing with PyTorch".
+2. Lee los primeros capítulos del libro "Generative AI with LangChain".
 3. Implementa un modelo de lenguaje utilizando Transformers.
 
 ### Proyectos 💻
